@@ -9,4 +9,3 @@ e para qe quhet Reading dhe synon te tesoj njohurite e leximit. E dyta qe eshte 
 ![p4](https://user-images.githubusercontent.com/57449723/142664248-282527be-41eb-4c78-835f-4cf96ae23f05.jpg)
 ![p5](https://user-images.githubusercontent.com/57449723/142664255-2fd77f8b-4507-42bf-82bf-81ef4298b9c9.jpg)
 ![p6](https://user-images.githubusercontent.com/57449723/142664260-9cc8c710-371b-4084-aee9-a3738659415a.jpg)
-![p7](https://user-images.githubusercontent.com/57449723/142664270-99bca9d8-d1d7-4f1a-8f41-5d7fd4666b3d.jpg)
